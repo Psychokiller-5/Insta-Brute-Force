@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://i.ibb.co/jMyQdG4/logo.png" alt=""/>
+  <img src="https://telegra.ph/file/c35e1e480b11925668280.jpg" alt=""/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-0.2.0-green" alt=""/>
+  <img src="https://img.shields.io/badge/Version-1.0.0-red" alt=""/>
   <img src="https://img.shields.io/badge/Written in-python-blue" alt=""/>
-  <img src="https://img.shields.io/badge/Author-SamueleAmato-937DC2" alt=""/>
+  <img src="https://img.shields.io/badge/Author-PsychoKiller-937DC2" alt=""/>
 
 </p>
 
