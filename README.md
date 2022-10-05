@@ -51,7 +51,7 @@
   cd setup
   python3 run_setup.py
   cd ..
-  python3 main.py
+  python3 instabf.py
   ```
 
 - Termux
@@ -60,16 +60,9 @@
   cd Instagram-Brute-force-2022
   cd Termux
   pip3 install -r requirements.txt
-  python3 main.py
+  python3 instabf.py
   ``` 
-- Windows
-  ```
-  Download zip file
-  Go inside Windows folder
-  Run main.py or main.exe
-  
-  ``` 
- 
+
 ##
 
  
