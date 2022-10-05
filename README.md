@@ -4,7 +4,7 @@
    
 
 # Hey welcome 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Spotify+Downloa+bot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+PsychoKiller+Insta+Bruteforce+Tool)](https://git.io/typing-svg)
 
 
 <p align="center">
