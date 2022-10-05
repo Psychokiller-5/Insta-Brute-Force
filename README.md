@@ -82,7 +82,7 @@
 <p align="center">
 </p>
 <p align="center">
-  <img src="https://i.ibb.co/hsPnfrz/2022-09-25-17-43.png" alt=""/>
+  <img src="https://telegra.ph/file/f41b88ed08f98a536e4a3.jpg" alt=""/>
 </p>
  
   
