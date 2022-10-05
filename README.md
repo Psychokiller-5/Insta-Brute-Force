@@ -92,7 +92,4 @@
 
 #### Find me on:
 
-<p>
-  <img src="https://instagram.com/psycho_killer__5__?igshid=YmMyMTA2M2Y=" alt=""/>
-
-</p>
+     
