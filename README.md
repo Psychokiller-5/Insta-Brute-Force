@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://telegra.ph/file/c35e1e480b11925668280.jpg" alt=""/>
 </p>
+   
+
+# Hey welcome 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Spotify+Downloa+bot)](https://git.io/typing-svg)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-red" alt=""/>
@@ -91,5 +96,11 @@
 ##
 
 #### Find me on:
+ 
+## CONTACT OWNER 
 
+<h3 align="center">𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙈𝙀 𝙃𝙀𝙍𝙀<img align="center" src="https://github.com/PANDITHAN/PANDITHAN/blob/main/assets/Handshake.gif" height="33px" /></h3>
+<p align="center">
+<a href="https://t.me/Masterolic"><img alt="Telegram" src="https://img.shields.io/badge/CONTACT ME-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
      
