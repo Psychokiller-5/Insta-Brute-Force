@@ -4,7 +4,7 @@
    
 
 # Hey welcome 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+PsychoKiller+InstaBF+Tool)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+PsychoKiller+InstaBF)](https://git.io/typing-svg)
 
 
 <p align="center">
@@ -101,6 +101,6 @@
 
 <h3 align="center">𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙈𝙀 𝙃𝙀𝙍𝙀<img align="center" src="https://github.com/PANDITHAN/PANDITHAN/blob/main/assets/Handshake.gif" height="33px" /></h3>
 <p align="center">
-<a href="https://t.me/Masterolic"><img alt="Telegram" src="https://img.shields.io/badge/CONTACT ME-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/psycho_killer5"><img alt="Telegram" src="https://img.shields.io/badge/CONTACT ME-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
      
