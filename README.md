@@ -7,7 +7,7 @@
 </p>
    
 
-# Hey welcome 
+# Hey welcome InstaBF
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+PsychoKiller+InstaBF)](https://git.io/typing-svg)
 
 
@@ -36,7 +36,6 @@
   - windscribe-vpn support
 - Compatible with
   - Linux
-  - Windows
   - Termux (only cli)
 
  ## 
