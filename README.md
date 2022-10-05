@@ -44,7 +44,7 @@
 
 - Linux
   ```
-  git clone https://github.com/Psychokiller-5/Insta-Brute-force
+  git clone https://github.com/Psychokiller-5/Insta-Brute-Force
   cd Insta-Brute-Force 
   cd Linux
   cd setup
@@ -55,7 +55,7 @@
 
 - Termux
   ```
-  git clone https://github.com/Psychokiller-5/Insta-Brute-force
+  git clone https://github.com/Psychokiller-5/Insta-Brute-Force
   cd Insta-Brute-Force 
   cd Termux
   pip3 install -r requirements.txt
